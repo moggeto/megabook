@@ -17,6 +17,7 @@ flask-moment = "*"
 flask-babel = "*"
 requests = "*"
 langdetect = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
